@@ -8,7 +8,7 @@ Git hub link
 https://github.com/lisasosa/Note-Taker
 
 Heroku Link
-https://note-taker-liz.herokuapp.com/
+https://polar-brushlands-99077.herokuapp.com/
 
 # Demo screenshots
 
